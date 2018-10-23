@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    color: gray;
+    padding: 10px 0;
+    font-size: 16px;
+}
+ol{
+    list-style: none;
+    padding: 10px 0;
+    font-size: 12px;
+}
+li{
+    padding: 5px 0;
+}
+.green{
+    color: green;
+}
+.aqua{
+    color: aqua;
+}
+.blue{
+    color: lightblue;
+}
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
